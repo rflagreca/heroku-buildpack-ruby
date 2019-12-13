@@ -7,6 +7,8 @@ class LanguagePack::Rails51 < LanguagePack::Rails5
     public/packs
     ~/.yarn-cache
     ~/.cache/yarn
+    ~/.elm
+    .elm-stuff
   ]
 
   ASSET_CACHE_PATHS = %w[
